@@ -18,7 +18,6 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "cross-env": "7.0.2",
-    "pkg": "https://npm@github.com/node-opcua/pkg#3d37021b0316b5fd58ee2ce41b357f583e1543f7"
+    "pkg": "https://npm@github.com/node-opcua/pkg#d7ee807aa8b3cc6cf0b09f6e76533756631f7ffb"
   }
 }
